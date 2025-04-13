@@ -1,0 +1,38 @@
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+}
+
+.header {
+    color: #000080;
+
+}
+
+a:link {
+    color:black;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+    font-style: normal;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 310px;
+    width: auto;
+}
+
+p {
+    margin: 8px;
+}
+
+li {
+    margin: 8px;
+}
